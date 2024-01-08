@@ -3,7 +3,6 @@
 The Simple iPod Project is a React-based application mimicking an iPod interface. It consists of multiple screens such as Music, Settings, Games, and Cover Flow, which can be navigated through a menu system. Users can toggle between different screens and access functionalities like playing music, adjusting settings, exploring games, and visualizing album covers. The project aims to replicate the iconic iPod user experience, offering a simple yet intuitive interface for users to interact with different features.
 
 ## Technologies Used
- ## Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
